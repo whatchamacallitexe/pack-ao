@@ -1,45 +1,7 @@
-BASE OK Stinkalistic/junk@main/vampiresurvivors -> vampiresurvivors
-BASE REWRITE vampiresurvivors
-FILE vanguard: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
-FILE vanguard: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@00b075dab1123c34f488d1e9c87c945716887ede/Vanguard%20(USA).zip -> assets/cdn/d1341596-Vanguard_USA_.zip
-FILE vanguard: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE vanguard: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
-FILE vaportrails: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Vapor%20Trails/TemplateData/favicon.ico -> assets/cdn/38249639-favicon.ico
-FILE vaportrails: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Vapor%20Trails/TemplateData/style.css -> assets/cdn/e27ca11c-style.css
-FILE vaportrails: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Vapor%20Trails/TemplateData/UnityProgress.js -> assets/cdn/2517830b-UnityProgress.js
-FILE vaportrails: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/Vapor%20Trails/Build/UnityLoader.js -> assets/cdn/1c4ce750-UnityLoader.js
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE vex: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE vex: https://cdn.jsdelivr.net/gh/Susorodni/swfgalaxy@a8aa0dc864c6e9b964ab966bc49f9b077401b8fb/games/vex.swf -> ../_shared/6f01e7cf200f-vex.swf
-FILE vex2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FAILED https://cdn.jsdelivr.net/gh/genizy/vex@0a8c9667e3ca81b70d82b388130fb75c65ad6699/2/vex2.swf: curl: (22) The requested URL returned error: 403
+FILE vex2: https://cdn.jsdelivr.net/gh/genizy/vex@0a8c9667e3ca81b70d82b388130fb75c65ad6699/2/vex2.swf -> ../_shared/cb012ff0b1ac-vex2.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-BASE OK genizy/vex@1340a1189f16869133a4a42f11554b5d0ccc064b/3 -> vex3
-BASE REWRITE vex3
-FILE vex4: https://cdn.jsdelivr.net/gh/CFiltered/Matt@50f9c1bd0d376b40cb8545519b147a4030598724/other/vex4/assets/css/app.css -> assets/cdn/babe74de-app.css
-FILE vex4: https://cdn.jsdelivr.net/gh/CFiltered/Matt@50f9c1bd0d376b40cb8545519b147a4030598724/other/vex4/vex4.png -> assets/cdn/74f63737-vex4.png
-FILE vex4: https://cdn.jsdelivr.net/gh/bobydob/JSEngine@0f8467a67ec67e4119180e5d2bef3946fe223c8c/build/v4/v4.min.js -> assets/cdn/5f4493d9-v4.min.js
-FILE vex4: https://cdn.jsdelivr.net/gh/bobydob/JSEngine@0f8467a67ec67e4119180e5d2bef3946fe223c8c/build/v4/version.js -> ../_shared/0d65b2721580-version.js
-FILE vex5: https://cdn.jsdelivr.net/gh/EXM1LITARY/lio@7beab336469d96d153903e03dfe089ff2d2b035c/other/vex5/assets/css/app.css -> assets/cdn/884fd8a6-app.css
-FILE vex5: https://cdn.jsdelivr.net/gh/EXM1LITARY/lio@7beab336469d96d153903e03dfe089ff2d2b035c/other/vex5/vex.jpeg -> assets/cdn/ddf2308f-vex.jpeg
-FILE vex5: https://cdn.jsdelivr.net/gh/bobydob/JSEngine@c9697620dde0cb058865163e27b83208dff2505b/build/v5/v5.min.js -> assets/cdn/7f54d99e-v5.min.js
-FILE vex5: https://cdn.jsdelivr.net/gh/bobydob/JSEngine@0f8467a67ec67e4119180e5d2bef3946fe223c8c/build/v4/version.js -> ../_shared/0d65b2721580-version.js
-BASE OK genizy/vex@HEAD/6 -> vex6
-BASE REWRITE vex6
-BASE OK genizy/vex@HEAD/7 -> vex7
-BASE REWRITE vex7
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
-
-FILE vvvvvv: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
-FILE vvvvvv: https://cdn.jsdelivr.net/gh/Stinkalistic/Flash-games@main/vvvvvv.swf -> ../_shared/817d8050d6b8-vvvvvv.swf
-FILE wolfenstein3d: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
-FILE wolfenstein3d: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@01b571b5914da40fab49b14349e37cdfc1551b36/Wolfenstein%203D%20(World).zip -> assets/cdn/ef44d566-Wolfenstein_3D_World_.zip
-FILE wolfenstein3d: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
-FILE wolfenstein3d: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
-FILE wordle: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/wordle/manifest.json -> assets/cdn/dc719100-manifest.json
-FILE wordle: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/wordle/img/logo_32x32.png -> ../_shared/cae7394926bb-logo_32x32.png
-FILE wordle: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/wordle/img/logo_192x192.png -> assets/cdn/2a49f673-logo_192x192.png
-FILE wordle: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/wordle/global.css -> assets/cdn/b2294c22-global.css
-FILE wordle: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/wordle/build/bundle.css -> assets/cdn/91064885-bundle.css
-FILE wordle: https://cdn.jsdelivr.net/gh/Nailington/3kh0-assets@aeb371b7e88542fd5e61eeed9e967a446d84fe1b/wordle/build/bundle.js -> assets/cdn/1d4da527-bundle.js
+EMU MISS a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76
